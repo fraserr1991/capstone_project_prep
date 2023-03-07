@@ -17,8 +17,6 @@ Useful tips:
 
 Mobbing at the start, but try to split into pairs/solo so everyone has the opportunity to get really focus deeply on parts/peices of the code.
 
-Will we try an hour in the middle of the day, like 1pm-2pm or so, we all go to sit solo, and look over whatever we've done so far that day, and then formulate any questions to the group/think of any imporovements we think could be done, then when we come back we can go through it all together?
-
 #### Team tools for use
 
 Trello, excalidraw, obsidian.
