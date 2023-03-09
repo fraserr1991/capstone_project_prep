@@ -1,0 +1,1 @@
+I'm a waiter working at TGI fridays looking to move jobs. I want to know how much I will get paid and the breakdown of that pay (base, real take home tips, paid in cash or card, even split/tip pool), work culture (team environment, shift patterns staff turnover), benefits (meals/no meals)
